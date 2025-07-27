@@ -62,7 +62,7 @@ A real-time chat platform connecting people instantly.
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/arya-deep-singh-8b1a84230/)
-- [Portfolio](https://my-portfolio-inky-iota-97.vercel.app/)
+- [Portfolio](https://arya-gules.vercel.app/)
 
 ---
 
